@@ -18,7 +18,7 @@ To run the code as a web app, follow these steps:
     voila "map_Final.ipynb"
     ```
 
-    This will launch a local server, and you can view your app in a web browser at http://localhost:8866.
+    This will launch a local server, and you can view the app in a web browser at http://localhost:8866.
   
 ## Deployment via mybinder.org
 
