@@ -6,7 +6,7 @@ An interactive map to compute accessible travel time from each train station of 
 
 To run the code as a web app, follow these steps:
 
-1. Download the "map_Final.ipynb" notebook.
+1. Download the `map_Final.ipynb` notebook.
 
 2. Open a terminal or command prompt.
 
